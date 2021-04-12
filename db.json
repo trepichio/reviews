@@ -1,0 +1,39 @@
+{
+  "reviewers": [
+    {
+      "id": 1,
+      "name": "João Trepichio",
+      "profile-image": "./src/assets/avatar-1.png",
+      "job_title": "Fullstack Developer",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam doloremque fugiat, eum veritatis accusamus consequuntur itaque vitae quas vel adipisci perspiciatis molestias iure non delectus, rem iste nemo excepturi modi?"
+    },
+    {
+      "id": 2,
+      "name": "Eugenio Denada",
+      "profile-image": "./src/assets/avatar-2.png",
+      "job_title": "Web Developer",
+      "description": "Mollit cupidatat Lorem aute sunt sunt. Aliquip ad commodo amet Lorem. Quis id quis veniam aliqua consectetur veniam et elit nisi. Commodo velit quis labore quis Lorem non ex."
+    },
+    {
+      "id": 3,
+      "name": "Rafael Rolando",
+      "profile-image": "./src/assets/avatar-3.png",
+      "job_title": "QA Tester",
+      "description": "Cupidatat quis exercitation pariatur dolore reprehenderit reprehenderit eiusmod. Consectetur eu et id consequat veniam occaecat. Reprehenderit enim sint Lorem minim in occaecat ipsum officia. Nostrud minim et ad enim. Excepteur et labore ullamco ex deserunt anim sint veniam tempor consectetur veniam. Nostrud dolor laborum id officia sit duis esse enim culpa proident."
+    },
+    {
+      "id": 4,
+      "name": "Thais Tanamesma",
+      "profile-image": "./src/assets/avatar-4.png",
+      "job_title": "Frontend Developer",
+      "description": "Incididunt elit ullamco cillum ut proident ex sint eiusmod. Do nostrud id amet ut anim ullamco non nisi mollit nostrud Lorem. Commodo elit duis proident aute proident non. Adipisicing exercitation labore dolor irure velit. Proident velit ad mollit eiusmod magna dolore labore qui dolor culpa voluptate. Ut nulla aute sint quis deserunt adipisicing pariatur non culpa id dolore ex mollit aliquip."
+    },
+    {
+      "id": 5,
+      "name": "Adriano Feliz",
+      "profile-image": "./src/assets/avatar-5.png",
+      "job_title": "Backend Developer",
+      "description": "Esse qui ipsum mollit laboris pariatur nulla culpa qui. Est pariatur nisi excepteur eu fugiat deserunt et cupidatat occaecat. Officia minim ea tempor sint nostrud elit velit. Fugiat cillum incididunt esse nostrud sunt adipisicing ullamco ex id. Commodo incididunt minim ullamco magna culpa velit qui labore nostrud. Sit est cupidatat veniam do id exercitation excepteur elit aliqua reprehenderit nulla deserunt deserunt id. Occaecat minim veniam sit mollit."
+    }
+  ]
+}
