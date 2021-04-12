@@ -7,6 +7,7 @@
   <title>Our Reviews</title>
   <link rel="stylesheet" href="/src/styles/css-reset.css">
   <link rel="stylesheet" href="/src/styles/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
 </head>
 <body>
   <main>
@@ -14,20 +15,24 @@
     <div class="card">
       <div class="card-image">
         <figure>
-          <img class="image-rounded" src="http://placekitten.com/150/150" alt="picture of the reviewer">
+          <img class="profile-image image-rounded" alt="picture of the reviewer">
         </figure>
       </div>
       <div class="card-content">
-        <h3>João Trepichio</h3>
-        <h4>Fullstack Developer</h4>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam doloremque fugiat, eum veritatis accusamus consequuntur itaque vitae quas vel adipisci perspiciatis molestias iure non delectus, rem iste nemo excepturi modi?</p>
+        <h3 id="name">João Trepichio</h3>
+        <h4 id="job_title">Fullstack Developer</h4>
+        <p id="description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam doloremque fugiat, eum veritatis accusamus consequuntur itaque vitae quas vel adipisci perspiciatis molestias iure non delectus, rem iste nemo excepturi modi?</p>
       </div>
       <div class="card-actions">
-        <a href="#"><</a>
-        <a href="#">></a>
-        <button class="btn btn-surprise">Surprise Me</button>
+        <a href="#" id="prev" >
+          <i class="fas fa-chevron-left"></i></a>
+          <a href="#" id="next" >
+            <i class="fas fa-chevron-right"></i></a>
+        </a>
+        <button class="btn" id ="surprise-me">Surprise Me</button>
       </div>
     </div>
   </main>
+  <script type="module" src="js/main.js"></script>
 </body>
 </html>
